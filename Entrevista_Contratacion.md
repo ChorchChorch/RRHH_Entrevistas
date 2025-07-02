@@ -29,3 +29,4 @@ Solo por palafrasear (repo de competencias https://www.competencylibrary.com)
 
 False Friend
 - Conocimiento no es igual a experiencia
+- que la empresa no tenga claro el **perfil de requerimientos** para el candidato
