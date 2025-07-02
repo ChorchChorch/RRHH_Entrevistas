@@ -46,4 +46,5 @@ False Friend
 
 Pide que te describa paso a paso como hizo para solucionar un problema, no evaluas la solucion sino la cadena de razonamineto y priorizaciones realizadas, gestion del riesgo y otras opciones evaluadas. Porque descarto otras opciones.
 Cuales eran los motivos de la presiony que tan negativas eran las consecuencias. Quienes estaban involucrados? 
+Hubo desiciones criticas con recursos lmitados? O obligados a tomar una desion impopular? Clientes enojados?
 
