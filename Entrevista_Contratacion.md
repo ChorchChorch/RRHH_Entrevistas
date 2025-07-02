@@ -28,14 +28,17 @@ Solo por palafrasear (repo de competencias https://www.competencylibrary.com)
 - Y así sucesivamente
 
 False Friend
-- Conocimiento no es igual a experiencia y ninguna de las dos es igual a competente
-- La empresa no tenga claro el **perfil de requerimientos** para el candidato
+- Conocimiento no es igual a experiencia y ninguna de las dos es igual a ***competente***
+- La empresa tiene claro el ***perfil de requerimientos*** para el candidato
 
-    - Programa de la sección
+    - Crear un programa de la sección
     - Fundamentos del desarrollo de un cuadro de mando
-    - Creación de un perfil de competencias para los candidatos
     - Técnicas para investigar las competencias exitosas basadas en el estudio de los mejores empleados
-    - Realización de entrevistas de casos prácticos de comportamiento
+    - Creación de un perfil de competencias para los candidatos
     - Elaboración de una lista de competencias e indicadores de comportamiento
     - Elaboración de una lista de preguntas para la evaluación de competencias
-    - Desarrollo de los pasos para evaluar las competencias de los candidatos
+    - Diseño de las etapas para evaluar las competencias de los candidatos
+    - Realización de entrevistas de casos prácticos de comportamiento
+ 
+    - Tener clara la mision, rol, resultados esperados y responsabilidades , otros objetivos y conociento profesional del candidatro seleccionado
+    - crear una planilla para anoter los puntajes
