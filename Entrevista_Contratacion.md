@@ -42,3 +42,4 @@ False Friend
  
     - Tener clara la mision, rol, resultados esperados y responsabilidades , otros objetivos y conociento profesional del candidatro seleccionado
     - crear una planilla para anoter los puntajes
+![Alt text of the image](https://github.com/ChorchChorch/RRHH_Entrevistas/blob/main/PlanillaRequerimentos.jpg)
