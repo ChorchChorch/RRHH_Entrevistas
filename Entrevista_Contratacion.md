@@ -18,7 +18,7 @@ Soft Skills
 - people management
 - cultura corporativa
 
-Solo por palafrasear
+Solo por palafrasear (repo de competencias https://www.competencylibrary.com)
 - Logro de objetivos
 - Trabajo en equipo
 - Orientación a resultados
@@ -26,3 +26,6 @@ Solo por palafrasear
 - Mapear factores internos 
 - Deterctar fortalezas y dolores
 - Y así sucesivamente
+
+False Friend
+- Conocimiento no es igual a experiencia
