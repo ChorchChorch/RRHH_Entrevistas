@@ -23,4 +23,5 @@ Solo por palafrasear
 - Trabajo en equipo
 - Orientación a resultados
 - Liderazgo
+- Mapear factores internos y dolores
 - Y así sucesivamente
