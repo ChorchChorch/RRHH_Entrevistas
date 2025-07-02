@@ -28,8 +28,8 @@ Solo por palafrasear (repo de competencias https://www.competencylibrary.com)
 - Y así sucesivamente
 
 False Friend
-- Conocimiento no es igual a experiencia
-- que la empresa no tenga claro el **perfil de requerimientos** para el candidato
+- Conocimiento no es igual a experiencia y ninguna de las dos es igual a competente
+- La empresa no tenga claro el **perfil de requerimientos** para el candidato
 
     - Programa de la sección
     - Fundamentos del desarrollo de un cuadro de mando
