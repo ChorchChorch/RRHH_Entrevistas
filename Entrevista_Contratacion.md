@@ -17,3 +17,10 @@ Soft Skills
 - self management
 - people management
 - cultura corporativa
+
+Solo por palafrasear
+- Logro de objetivos
+- Trabajo en equipo
+- Orientación a resultados
+- Liderazgo
+- Y así sucesivamente
