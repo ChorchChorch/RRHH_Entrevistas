@@ -31,7 +31,7 @@ False Friend
 - Conocimiento no es igual a experiencia
 - que la empresa no tenga claro el **perfil de requerimientos** para el candidato
 
-    - Programa de la lección
+    - Programa de la sección
     - Fundamentos del desarrollo de un cuadro de mando
     - Creación de un perfil de competencias para los candidatos
     - Técnicas para investigar las competencias exitosas basadas en el estudio de los mejores empleados
