@@ -48,3 +48,8 @@ Pide que te describa paso a paso como hizo para solucionar un problema, no evalu
 Cuales eran los motivos de la presiony que tan negativas eran las consecuencias. Quienes estaban involucrados? 
 Hubo desiciones criticas con recursos lmitados? O obligados a tomar una desion impopular? Clientes enojados?
 
+![Alt text of the image](https://github.com/ChorchChorch/RRHH_Entrevistas/blob/main/Candidato_Busca.jpg)
+
+
+
+
